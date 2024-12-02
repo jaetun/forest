@@ -6,7 +6,7 @@ import math
 from typing import Tuple, Union, Optional, List
 from itertools import groupby
 
-import numpy as np
+import cupy as np
 import pandas as pd
 
 from forest.constants import EARTH_RADIUS_METERS

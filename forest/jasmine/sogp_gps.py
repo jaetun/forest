@@ -11,7 +11,7 @@ import logging
 import math
 from typing import Dict, Tuple
 
-import numpy as np
+import cupy as np
 
 
 logger = logging.getLogger(__name__)

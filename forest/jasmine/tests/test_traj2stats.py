@@ -1,6 +1,6 @@
 """Tests for traj2stats summary statistics in Jasmine"""
 
-import numpy as np
+import cupy as np
 import pytest
 from shapely.geometry import Point
 

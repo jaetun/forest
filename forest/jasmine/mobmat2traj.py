@@ -5,7 +5,7 @@ import logging
 import math
 from typing import Optional, Tuple
 
-import numpy as np
+import cupy as np
 import scipy.stats as stat
 
 from ..poplar.legacy.common_funcs import stamp2datetime
