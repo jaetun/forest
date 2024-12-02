@@ -22,6 +22,7 @@ dependencies = [
     "openrouteservice",
     "pandas",
     "pyproj",
+    "cupy-cuda12x",
     "python-dateutil",
     "pytz",
     "ratelimit",
